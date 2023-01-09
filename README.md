@@ -46,10 +46,10 @@ print("| {0:15}   | {1:9} |".format(self.nama, self
 
 # model/daftar_nilai.py
 *Modul ini di isi dengan class yang berisi method - method :
-    -tambah_data() yang mengimport modul inputan dari input_nilai dan di masukan ke modul data.
-    -ubah_data() yang mengimport modul inputan dari input_nilai dan menggunakan pengkondisian jika inputan di dalam modul data lalu memasukan  inputan baru dari modul input_nilai ke dalam modul data.
-    -hapus_data() yang mengimport modul inputan dari input_nilai dan menggunakan pengkondisian jika inputan di dalam modul data lalu menghapus data di dalam modul data yang sesuai dengan modul inputan dari input_nilai.
-    -cari_data() yang mengimport modul inputan dari input_nilai dan mencetak data dari modul view_nilai yang sesuai dengan inputan dari modul input_nilai contoh program:
+ -tambah_data() yang mengimport modul inputan dari input_nilai dan di masukan ke modul data
+ -ubah_data() yang mengimport modul inputan dari input_nilai dan menggunakan pengkondisian jika inputan di dalam modul data lalu memasukan  inputan baru dari modul input_nilai ke dalam modul data
+ -hapus_data() yang mengimport modul inputan dari input_nilai dan menggunakan pengkondisian jika inputan di dalam modul data lalu menghapus data di dalam modul data yang sesuai dengan modul inputan dari input_nilai.
+ -cari_data() yang mengimport modul inputan dari input_nilai dan mencetak data dari modul view_nilai yang sesuai dengan inputan dari modul input_nilai contoh program:
 
 ```
 def tambah_data(self):
@@ -74,4 +74,5 @@ def cari_data(self):
 ![gambar](foto/haruto3.png)
 
 ## LINK YOUTUBE
+penjelasan lebih lengkap bisa liahat di vidio Youtube
 https://youtu.be/lMd1kVshBV0
